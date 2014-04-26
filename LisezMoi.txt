@@ -1,0 +1,2 @@
+ce programme permet de décaler une chaine par un pas donné 
+exemple "chaine" avec un pas=1 donne "hainec" et avec un pas =2 donne "ainech" etc :)
