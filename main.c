@@ -24,10 +24,10 @@ else
 int main(void)
 {    int p;
     char s[20];
-    puts("saisi votre chaine de depart \n");
+    puts("taper votre chaine de depart \n");
     scanf("%s",&s);
     printf("votre chaine de depart est :\n %s  \n",s);
-    printf("sisai votre pas de decalage : \n");
+    printf("taper votre pas de decalage : \n");
     scanf("%d",&p);
     decalage(s,p);
     return 0;
